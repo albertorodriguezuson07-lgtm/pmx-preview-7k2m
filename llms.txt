@@ -1,0 +1,20 @@
+# Prometeix
+
+> Agencia de inteligencia artificial y automatización en Murcia (España) para pymes: agentes de IA, asistentes de WhatsApp, CRM y plataformas a medida, integración con ERP, y marketing medido en resultados (Google y Meta Ads, Klaviyo, SEO y GEO, Shopify). Con los datos de los clientes en servidores propios en España.
+
+Prometeix la dirige Alberto Rodríguez Usón (fundador). Trabaja con clientes desde 2025 y como marca desde 2026. Sede en Murcia; clientes en la Región de Murcia, Alicante y, en remoto, en España y Colombia.
+
+- Qué nos diferencia: quien diseña es quien construye y quien lee los datos; infraestructura propia en España con modelos de IA locales (RGPD, LOPDGDD, AI Act, contrato de encargado del tratamiento); productos probados antes en nuestro laboratorio (Prometeix LAB).
+- Casos con cifras verificadas: Almacenes HJ (ferretería técnica, Medellín): ×2,9 de venta online registrada en 2026, de 85 a 186 compradores, +39 % de ticket medio, de 0 a 2.883 suscriptores de email. Repalass (taller de palas de pádel, Molina de Segura): plataforma completa (fotos, pago, seguimiento, CRM) en 16 días, alojada en servidores propios. R&D Dental (depósito dental para estudiantes): tienda, CRM/ERP de 27 pantallas, comunidad y 12 automatizaciones en 8 semanas.
+- Productos propios (LAB): Reels (app de edición de vídeo con IA, en lanzamiento), TallerOS, Órbita, Vigías, Memoria, ARGOS, Nube Prometeix.
+- Cómo empezar: diagnóstico de 30 minutos sin compromiso en https://prometeix.com/diagnostico
+
+## Páginas principales
+
+- [Portada](https://prometeix.com/): qué hacemos y para quién.
+- [Diagnóstico](https://prometeix.com/diagnostico): reunión de 30 minutos.
+- [Pedir presupuesto](https://prometeix.com/presupuesto)
+- [Casos](https://prometeix.com/casos)
+- [LAB](https://prometeix.com/lab)
+- [Seguridad y RGPD](https://prometeix.com/seguridad-rgpd)
+- [Contacto](https://prometeix.com/contacto): alberto@prometeix.com · WhatsApp +34 634 922 777
