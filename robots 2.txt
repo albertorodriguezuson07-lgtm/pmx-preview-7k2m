@@ -1,0 +1,88 @@
+User-agent: *
+Allow: /
+
+# ── Crawlers de IA — permitidos para aparecer en AI Overviews, ChatGPT, Perplexity, Claude, Gemini ──
+
+# OpenAI (ChatGPT, GPT-5, SearchGPT)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Google AI Overviews + Gemini
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Meta AI (Llama)
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Amazon (Alexa, Rufus)
+User-agent: Amazonbot
+Allow: /
+
+# ByteDance (Doubao, TikTok search)
+User-agent: Bytespider
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+User-agent: cohere-training-data-crawler
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# DuckDuckGo AI
+User-agent: DuckAssistBot
+Allow: /
+
+# Mistral
+User-agent: MistralAI-User
+Allow: /
+
+# xAI (Grok)
+User-agent: xAI
+Allow: /
+
+Sitemap: https://prometeix.com/sitemap-index.xml
