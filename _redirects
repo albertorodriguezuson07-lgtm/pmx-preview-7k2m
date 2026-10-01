@@ -3,3 +3,13 @@
 /lab/* /forja/:splat 301
 /reels /forja/reels 301
 /marketing-y-performance /ecommerce-y-performance 301
+
+# URLs de la web antigua (React, mayo-2026): conservan la autoridad que tuvieran
+/servicios /ia-y-desarrollo 301
+/caso-hj /casos/almacenes-hj 301
+/precios /presupuesto 301
+/faq /como-trabajamos 301
+/catalogo /forja 301
+/catalogo/* /forja 301
+/blog /forja 301
+/blog/* /forja 301
