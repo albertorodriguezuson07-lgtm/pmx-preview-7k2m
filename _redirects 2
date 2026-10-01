@@ -1,5 +1,0 @@
-# Redirecciones para Cloudflare (Pages / Workers con assets). Astro genera además páginas de salto para el hosting estático.
-/lab /forja 301
-/lab/* /forja/:splat 301
-/reels /forja/reels 301
-/marketing-y-performance /ecommerce-y-performance 301
