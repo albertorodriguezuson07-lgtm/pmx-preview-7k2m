@@ -7,13 +7,17 @@ Prometeix la dirige Alberto Rodríguez Usón (fundador). Trabaja con clientes de
 - Qué nos diferencia: quien diseña es quien construye y quien lee los datos; infraestructura propia en España con modelos de IA locales (RGPD, LOPDGDD, AI Act, contrato de encargado del tratamiento); productos probados antes en nuestro laboratorio (Forja Prometeix).
 - Casos con cifras verificadas: Almacenes HJ (ferretería técnica, Medellín): ×2,9 de venta online registrada en 2026, de 85 a 186 compradores, +39 % de ticket medio, de 0 a 2.883 suscriptores de email. Repalass (taller de palas de pádel, Molina de Segura): plataforma completa (fotos, pago, seguimiento, CRM) en 16 días, alojada en servidores propios. R&D Dental (depósito dental para estudiantes): tienda, CRM/ERP de 27 pantallas, comunidad y 12 automatizaciones en 8 semanas.
 - Productos propios (Forja): Reels (app de edición de vídeo con IA, en lanzamiento), TallerOS, Órbita, Vigías, Memoria, ARGOS, Nube Prometeix.
-- Cómo empezar: diagnóstico de 30 minutos sin compromiso en https://prometeix.com/diagnostico
+- Cómo empezar: diagnóstico de 30 minutos gratuito en https://prometeix.com/diagnostico. Mapa de procesos (BPMN) y plan: 690 € + IVA, descontable del proyecto.
+- Precios orientativos (sin IVA, octubre de 2026): asistente de WhatsApp con IA desde 1.200 € + 120 €/mes; automatización de un proceso desde 990 € + 90 €/mes; integración del ERP con WhatsApp, email o tienda desde 2.500 € + 150 €/mes (Odoo y Holded con conexión directa); agente de IA a medida desde 3.500 €; IA privada en servidores propios desde 2.900 €; plataforma o CRM a medida desde 6.000 €; SEO y GEO desde 450 €/mes. Detalle: https://prometeix.com/precios
 
 ## Páginas principales
 
 - [Portada](https://prometeix.com/): qué hacemos y para quién.
 - [Diagnóstico](https://prometeix.com/diagnostico): reunión de 30 minutos.
 - [Pedir presupuesto](https://prometeix.com/presupuesto)
+- [Precios](https://prometeix.com/precios): cuánto cuesta cada servicio.
+- [Pedidos de WhatsApp al ERP](https://prometeix.com/automatizar-pedidos-whatsapp-erp): para distribuidores y mayoristas.
+- [IA para talleres en Murcia](https://prometeix.com/ia-talleres-murcia): citas, presupuestos, pagos y seguimiento.
 - [Casos](https://prometeix.com/casos)
 - [Forja](https://prometeix.com/forja)
 - [Seguridad y RGPD](https://prometeix.com/seguridad-rgpd)

@@ -7,6 +7,7 @@
 # URLs de la web antigua (React, mayo-2026): conservan la autoridad que tuvieran
 /servicios /ia-y-desarrollo 301
 /caso-hj /casos/almacenes-hj 301
+/precios /presupuesto 301
 /faq /como-trabajamos 301
 /catalogo /forja 301
 /catalogo/* /forja 301
